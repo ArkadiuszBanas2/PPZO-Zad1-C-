@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie_C__PPZO
+namespace Zadanie_C__PPZO // Komentarz dla brancha Arek
 {
     internal class Program
     {

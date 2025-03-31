@@ -1,0 +1,7 @@
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\Zadanie C# PPZO\Zadanie C# PPZO\bin\Debug\Zadanie C# PPZO.exe.config
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\Zadanie C# PPZO\Zadanie C# PPZO\bin\Debug\Zadanie C# PPZO.exe
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\Zadanie C# PPZO\Zadanie C# PPZO\bin\Debug\Zadanie C# PPZO.pdb
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\Zadanie C# PPZO\Zadanie C# PPZO\obj\Debug\Zadanie C# PPZO.csproj.AssemblyReference.cache
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\Zadanie C# PPZO\Zadanie C# PPZO\obj\Debug\Zadanie C# PPZO.csproj.CoreCompileInputs.cache
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\Zadanie C# PPZO\Zadanie C# PPZO\obj\Debug\Zadanie C# PPZO.exe
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\Zadanie C# PPZO\Zadanie C# PPZO\obj\Debug\Zadanie C# PPZO.pdb
